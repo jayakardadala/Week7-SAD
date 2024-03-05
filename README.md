@@ -18,8 +18,8 @@ bash
 git clone https://github.com/your-username/your-project.git
 
 2. To Install Angular
-  npm install -g @angular/cli
+## npm install -g @angular/cli
 3. To Run Project
-   ng serve
+ ##  ng serve
 
    I've coded only 40% it shows only basic output
